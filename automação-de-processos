@@ -1,0 +1,29 @@
+# Projeto de Análise e Automação de Processos com IA
+
+## Visão Geral
+...
+
+## Funcionalidades
+- Análise automática de processos
+- Resumo executivo
+- Identificação de gargalos
+- Sugestões de automação
+- Fluxograma do processo (Mermaid)
+- Proposta de implementação no n8n
+
+## Estudo de Caso
+### Processo: Produção de Pedidos
+- Entrada do Pedido
+- Design
+- Produção
+- Logística
+- Entrega
+
+### Fluxograma
+(diagrama Mermaid)
+
+### Automações sugeridas
+...
+
+### Tecnologias utilizadas
+...
