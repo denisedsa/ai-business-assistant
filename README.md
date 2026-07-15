@@ -81,3 +81,8 @@ Contém:
 
 - Lovable (prototipação com IA)
 
+## Demonstração
+
+O protótipo foi desenvolvido no Lovable durante um ambiente de testes.
+
+Como a visualização da aplicação depende de autenticação na plataforma, este repositório apresenta a documentação funcional e capturas de tela do protótipo para demonstrar a solução proposta.
